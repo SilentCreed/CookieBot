@@ -1,6 +1,4 @@
 // cookie bot: auto-play-through cookie clicker
-// see also https://github.com/prinzstani/CookieBot
-
 var AutoPlay;
 if (!AutoPlay) AutoPlay = {};
 AutoPlay.version = "2.051";
